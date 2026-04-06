@@ -11,7 +11,7 @@
 - [Currently Working On](#currently-working-on)
   - [Websites](#websites-1)
     - [Australian Supermarket Database](#australian-supermarket-database)
-    - [steamspecs.cc](#steamspecscc)
+    - [SteamSpecs](#steamspecscc)
 
 # Completed Projects
 ## Video Game Tools
