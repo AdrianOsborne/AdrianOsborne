@@ -1,3 +1,18 @@
+# Table of Contents
+- [Completed Projects](#completed-projects)
+  - [Video Game Tools](#video-game-tools)
+    - [Rocksmith Custom Song Manager](#rocksmith-custom-song-manager)
+  - [3D Printing](#3d-printing)
+    - [3D Printable Whiteboard Magnet Generator](#3d-printable-whiteboard-magnet-generator)
+  - [Discord Bots](#discord-bots)
+    - [Emoji Combiner Bot](#emoji-combiner-bot)
+  - [Websites](#websites)
+    - [shawt.org](#shawtorg)
+- [Currently Working On](#currently-working-on)
+  - [Websites](#websites-1)
+    - [Australian Supermarket Database](#australian-supermarket-database)
+    - [steamspecs.cc](#steamspecscc)
+
 # Completed Projects
 ## Video Game Tools
 ### Rocksmith Custom Song Manager
