@@ -27,7 +27,7 @@
 <br>
 [Photo Sample Watermarker](https://github.com/AdrianOsborne/Photography-Watermarker) is a Windows desktop application that creates watermarked sample copies of photographs for client image selection. It supports common image formats and many RAW camera formats, generates a live preview, allows a custom photographer copyright watermark, and preserves the original images by writing the processed files to a separate output folder.
 
-<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/a6aadae9-befd-4949-8741-21fbeef82ba7" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/a6aadae9-befd-4949-8741-21fbeef82ba7" />
 
 ## Video Game Tools
 
