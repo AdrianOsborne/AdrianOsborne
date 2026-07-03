@@ -1,20 +1,34 @@
 # Table of Contents
 - [Completed Projects](#completed-projects)
+  - [Applications](#applications)
+    - [Photography Watermarker](#photography-watermarker)
   - [Video Game Tools](#video-game-tools)
     - [Rocksmith Custom Song Manager](#rocksmith-custom-song-manager)
-  - [3D Printing](#3d-printing)
-    - [3D Printable Whiteboard Magnet Generator](#3d-printable-whiteboard-magnet-generator)
   - [Discord Bots](#discord-bots)
     - [Emoji Combiner Bot](#emoji-combiner-bot)
+  - [3D Printing](#3d-printing)
+    - [3D Printable Whiteboard Magnet Generator](#3d-printable-whiteboard-magnet-generator)
   - [Websites](#websites)
     - [shawt.org](#shawtorg)
+
 - [Currently Working On](#currently-working-on)
   - [Websites](#websites-1)
     - [Australian Supermarket Database](#australian-supermarket-database)
     - [SteamSpecs](#steamspecscc)
 
 # Completed Projects
+
+## Applications
+
+### Photo Sample Watermarker
+`Desktop App` <br>
+`Photography` `Batch Processing` `Image Processing` <br>
+`Python` <br>
+<br>
+[Photo Sample Watermarker](https://github.com/AdrianOsborne/Photography-Watermarker) is a Windows desktop application that creates watermarked sample copies of photographs for client image selection. It supports common image formats and many RAW camera formats, generates a live preview, allows a custom photographer copyright watermark, and preserves the original images by writing the processed files to a separate output folder.
+
 ## Video Game Tools
+
 ### Rocksmith Custom Song Manager
 `Desktop App` <br>
 `File Management` `Automation` <br>
